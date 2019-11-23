@@ -1,7 +1,4 @@
 # Self-Learning
-1.风控特征—时间滑窗统计特征体系
-https://zhuanlan.zhihu.com/p/85440355
+主要是自己学习的一些记录,看过的论文,具体的实现,比赛中的一些trick,和一些杂项
 
-2.git方法
-https://blog.csdn.net/weixin_30770783/article/details/98879140
 
